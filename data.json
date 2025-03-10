@@ -22,9 +22,6 @@
                     "PDF URL": {
                         "type": "string"
                     },
-                    "Author": {
-                        "type": "string"
-                    },
                     "Department": {
                         "type": "string"
                     },
@@ -36,9 +33,6 @@
                     },
                     "UUID": {
                         "type": "string"
-                    },
-                    "Year": {
-                        "type": "string"
                     }
                 }
             }
@@ -46,92 +40,31 @@
     },
     "data": [
         {
-            "Timestamp": "08/03/2025 12:25:33",
-            "Title": "Introduction to Machine Learning",
-            "PDF URL": "https://www.cs.cmu.edu/~tom/mlbook/NN.pdf",
-            "Author": "John Smith",
-            "Department": "Computer Science",
-            "Category": "Tutorial",
-            "Reference": "Machine Learning Basics",
-            "UUID": "2b6b4795-0fd6-4659-aac8-a602851963a2",
-            "Year": "2025"
+            "Timestamp": "2025-03-10T14:00:00Z",
+            "Title": "Annual Financial Report",
+            "PDF URL": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+            "Department": "Finance",
+            "Category": "Reports",
+            "Reference": "FR2025-01",
+            "UUID": "123e4567-e89b-12d3-a456-426614174000"
         },
         {
-            "Timestamp": "09/15/2024 09:45:21",
-            "Title": "Advanced Data Structures",
-            "PDF URL": "https://web.stanford.edu/class/cs97si/04-dynamic-programming.pdf",
-            "Author": "Alice Johnson",
-            "Department": "Computer Science",
-            "Category": "Research Paper",
-            "Reference": "Data Structures",
-            "UUID": "4c8a1f2e-3d7b-4a9c-8f0d-5e6b7a8c9d0e",
-            "Year": "2024"
+            "Timestamp": "2025-03-10T15:30:00Z",
+            "Title": "Project Plan Q1",
+            "PDF URL": "https://tourism.gov.in/sites/default/files/2019-04/dummy-pdf_2.pdf",
+            "Department": "Operations",
+            "Category": "Planning",
+            "Reference": "PPQ1-2025",
+            "UUID": "123e4567-e89b-12d3-a456-426614174001"
         },
         {
-            "Timestamp": "11/22/2023 14:30:45",
-            "Title": "Quantum Computing Basics",
-            "PDF URL": "https://www.cs.cmu.edu/~odonnell/quantum15/quantum-notes.pdf",
-            "Author": "Jane Doe",
-            "Department": "Physics",
-            "Category": "Educational",
-            "Reference": "Quantum Mechanics",
-            "UUID": "5d9e2f1a-4c8b-3d7a-9e0f-6a7b8c9d0e1f",
-            "Year": "2023"
-        },
-        {
-            "Timestamp": "03/10/2026 18:12:59",
-            "Title": "Renewable Energy Technologies",
-            "PDF URL": "https://www.nrel.gov/docs/fy21osti/79904.pdf",
-            "Author": "Michael Brown",
-            "Department": "Environmental Science",
-            "Category": "Case Study",
-            "Reference": "Renewable Energy",
-            "UUID": "6e0f1a2b-5d9e-4c8b-3d7a-8c9d0e1f2a3b",
-            "Year": "2026"
-        },
-        {
-            "Timestamp": "07/19/2025 10:05:37",
-            "Title": "Artificial Intelligence Trends",
-            "PDF URL": "https://arxiv.org/pdf/2005.09137.pdf",
-            "Author": "Emily Davis",
-            "Department": "Technology",
-            "Category": "White Paper",
-            "Reference": "AI Trends",
-            "UUID": "7f1a2b3c-6e0f-5d9e-4c8b-9d0e1f2a3b4c",
-            "Year": "2025"
-        },
-        {
-            "Timestamp": "12/01/2024 16:20:10",
-            "Title": "Blockchain Technology Explained",
-            "PDF URL": "https://www.ibm.com/downloads/cas/2KQYVQZQ",
-            "Author": "David Wilson",
-            "Department": "Information Technology",
-            "Category": "Technical Report",
-            "Reference": "Blockchain Technology",
-            "UUID": "8a9b0c1d-7f1a-6e0f-5d9e-4c8b9d0e1f2a",
-            "Year": "2024"
-        },
-        {
-            "Timestamp": "05/05/2025 11:11:11",
-            "Title": "Data Visualization Techniques",
-            "PDF URL": "https://www.cs.ubc.ca/~tmm/courses/547-19/papers/visualization.pdf",
-            "Author": "Sarah Lee",
-            "Department": "Data Science",
-            "Category": "Guide",
-            "Reference": "Data Visualization",
-            "UUID": "9b0c1d2e-8a9b-7f1a-6e0f-5d9e4c8b9d0e",
-            "Year": "2025"
-        },
-        {
-            "Timestamp": "10/30/2023 20:45:00",
-            "Title": "Cybersecurity Fundamentals",
-            "PDF URL": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-12r1.pdf",
-            "Author": "Robert Green",
-            "Department": "Cybersecurity",
-            "Category": "Research Paper",
-            "Reference": "Cyber Threats",
-            "UUID": "0c1d2e3f-9b0c-8a9b-7f1a-6e0f5d9e4c8b",
-            "Year": "2023"
+            "Timestamp": "2025-03-10T16:45:00Z",
+            "Title": "Marketing Strategy 2025",
+            "PDF URL": "https://morth.nic.in/sites/default/files/dd12-13_0.pdf",
+            "Department": "Marketing",
+            "Category": "Strategy",
+            "Reference": "MS2025-05",
+            "UUID": "123e4567-e89b-12d3-a456-426614174002"
         }
     ]
 }
