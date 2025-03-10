@@ -1,0 +1,137 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "required": [
+        "data"
+    ],
+    "properties": {
+        "data": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "required": [
+                    "UUID"
+                ],
+                "properties": {
+                    "Timestamp": {
+                        "type": "string"
+                    },
+                    "Title": {
+                        "type": "string"
+                    },
+                    "PDF URL": {
+                        "type": "string"
+                    },
+                    "Author": {
+                        "type": "string"
+                    },
+                    "Department": {
+                        "type": "string"
+                    },
+                    "Category": {
+                        "type": "string"
+                    },
+                    "Reference": {
+                        "type": "string"
+                    },
+                    "UUID": {
+                        "type": "string"
+                    },
+                    "Year": {
+                        "type": "string"
+                    }
+                }
+            }
+        }
+    },
+    "data": [
+        {
+            "Timestamp": "08/03/2025 12:25:33",
+            "Title": "TEST",
+            "PDF URL": "https://pdfobject.com/pdf/sample.pdf",
+            "Author": "TEST",
+            "Department": "TEST",
+            "Category": "TEST",
+            "Reference": "TEST",
+            "UUID": "2b6b4795-0fd6-4659-aac8-a602851963a2",
+            "Year": "2025"
+        },
+        {
+            "Timestamp": "09/15/2024 09:45:21",
+            "Title": "Advanced Machine Learning Techniques",
+            "PDF URL": "https://example.com/pdf/advanced-ml.pdf",
+            "Author": "John Doe",
+            "Department": "Computer Science",
+            "Category": "Research Paper",
+            "Reference": "Machine Learning",
+            "UUID": "4c8a1f2e-3d7b-4a9c-8f0d-5e6b7a8c9d0e",
+            "Year": "2024"
+        },
+        {
+            "Timestamp": "11/22/2023 14:30:45",
+            "Title": "Introduction to Quantum Computing",
+            "PDF URL": "https://example.com/pdf/quantum-computing.pdf",
+            "Author": "Jane Smith",
+            "Department": "Physics",
+            "Category": "Educational",
+            "Reference": "Quantum Mechanics",
+            "UUID": "5d9e2f1a-4c8b-3d7a-9e0f-6a7b8c9d0e1f",
+            "Year": "2023"
+        },
+        {
+            "Timestamp": "03/10/2026 18:12:59",
+            "Title": "Sustainable Energy Solutions",
+            "PDF URL": "https://example.com/pdf/sustainable-energy.pdf",
+            "Author": "Alice Johnson",
+            "Department": "Environmental Science",
+            "Category": "Case Study",
+            "Reference": "Renewable Energy",
+            "UUID": "6e0f1a2b-5d9e-4c8b-3d7a-8c9d0e1f2a3b",
+            "Year": "2026"
+        },
+        {
+            "Timestamp": "07/19/2025 10:05:37",
+            "Title": "The Future of Artificial Intelligence",
+            "PDF URL": "https://example.com/pdf/future-ai.pdf",
+            "Author": "Michael Brown",
+            "Department": "Technology",
+            "Category": "White Paper",
+            "Reference": "AI Trends",
+            "UUID": "7f1a2b3c-6e0f-5d9e-4c8b-9d0e1f2a3b4c",
+            "Year": "2025"
+        },
+        {
+            "Timestamp": "12/01/2024 16:20:10",
+            "Title": "Blockchain and Its Applications",
+            "PDF URL": "https://example.com/pdf/blockchain-applications.pdf",
+            "Author": "Sarah Lee",
+            "Department": "Information Technology",
+            "Category": "Technical Report",
+            "Reference": "Blockchain Technology",
+            "UUID": "8a9b0c1d-7f1a-6e0f-5d9e-4c8b9d0e1f2a",
+            "Year": "2024"
+        },
+        {
+            "Timestamp": "05/05/2025 11:11:11",
+            "Title": "The Art of Data Visualization",
+            "PDF URL": "https://example.com/pdf/data-visualization.pdf",
+            "Author": "David Wilson",
+            "Department": "Data Science",
+            "Category": "Guide",
+            "Reference": "Data Visualization",
+            "UUID": "9b0c1d2e-8a9b-7f1a-6e0f-5d9e4c8b9d0e",
+            "Year": "2025"
+        },
+        {
+            "Timestamp": "10/30/2023 20:45:00",
+            "Title": "Cybersecurity in the Modern World",
+            "PDF URL": "https://example.com/pdf/cybersecurity.pdf",
+            "Author": "Emily Davis",
+            "Department": "Cybersecurity",
+            "Category": "Research Paper",
+            "Reference": "Cyber Threats",
+            "UUID": "0c1d2e3f-9b0c-8a9b-7f1a-6e0f5d9e4c8b",
+            "Year": "2023"
+        }
+    ]
+}
